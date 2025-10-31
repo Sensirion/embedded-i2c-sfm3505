@@ -15,10 +15,10 @@ Follow these instructions to flash the example:
 9. In your CMakeLists.txt, replace the add_executable block with:
     ```cmake
     add_executable(<project_name>
-        sfm3505.git_i2c_example_usage.c
+        sfm3505_i2c_example_usage.c
         sensirion_i2c.c
         sensirion_i2c_hal.c
-        sfm3505.git_i2c.c
+        sfm3505_i2c.c
         sensirion_common.c
     )
     ```
