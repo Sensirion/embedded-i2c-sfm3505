@@ -9,7 +9,7 @@ Click [here](https://sensirion.com/products/catalog/SFM3505) to learn more about
 
 
 
-The default I²C address of [SFM3505](https://sensirion.com/products/catalog/SFM3505) is **0x2E**.
+The default I²C address of [SFM3505](https://sensirion.com/products/catalog/SFM3505) is **0x2e**.
 
 
 
